@@ -1,9 +1,9 @@
-<h1 align="center">Hi there 👋, I'm 0xZepeto</h1>
+<h1 align="center">Hi there 👋, I'm aiLabbear</h1>
 <h3 align="center">🚀 Blockchain Enthusiast | Validator | Open Source Contributor</h3>
 
 <p align="center">
   <a href="https://github.com/0xZepeto">
-    <img src="https://komarev.com/ghpvc/?username=0xZepeto&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=aiLabbear&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
   </a>
 </p>
 
